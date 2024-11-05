@@ -1,0 +1,356 @@
+customer_id,order_id,delivery_rating,food_quality_rating,delivery_time_satisfaction,suggestions_for_improvement,would_recommend,order_frequency
+CUST60918,ORD53514,2,4,Very satisfied,,,occasional
+CUST06647,ORD01588,4,3,Disastisfied,More payment otpions,,occasional
+CUST45902,ORD12177,2,3,Satisfied,Beter packaging,,Monthly
+,,2,3,Satisfied,,No,Monthly
+CUST23457,ORD88478,3,1,Satisfied,More payment otpions,,occasional
+CUST33890,ORD08710,5,1,Satisfied,better Food quality,,DAILY
+CUST97751,ORD01785,1,1,Very satisfied,,Yes,
+CUST71370,ORD33770,4,4,Satisfied,Beter packaging,,
+CUST58590,ORD20459,3,2,Neutral,Beter packaging,,DAILY
+CUST33164,,2,4,Very satisfied,Beter packaging,Yes,weekly
+CUST69999,ORD57369,5,1,Neutral,,Yes,DAILY
+CUST58250,ORD02810,3,,Disastisfied,,No,DAILY
+CUST20107,ORD84950,3,3,Satisfied,better Food quality,No,occasional
+CUST33358,ORD54991,5,1,Disastisfied,faster delivery,No,Monthly
+CUST67560,ORD44145,1,1,Satisfied,faster delivery,Yes,weekly
+CUST86885,ORD37287,2,,Very satisfied,better Food quality,No,occasional
+,ORD47294,3,10,Neutral,faster delivery,Yes,Monthly
+CUST18423,ORD84806,5,4,Disastisfied,,Yes,DAILY
+,ORD30503,4,1,VERY dissatisfied,,,occasional
+CUST76274,ORD58130,5,1,VERY dissatisfied,Beter packaging,Yes,occasional
+CUST85097,,5,2,Neutral,better Food quality,Yes,
+CUST93311,ORD88920,5,3,VERY dissatisfied,better Food quality,No,weekly
+CUST68745,ORD08170,5,5,Very satisfied,better Food quality,,Monthly
+CUST18891,ORD01759,2,1,Very satisfied,faster delivery,,weekly
+CUST40186,ORD48028,3,5,Neutral,Beter packaging,Yes,weekly
+CUST88947,,2,1,Satisfied,better Food quality,No,Monthly
+CUST48499,ORD80569,2,1,Very satisfied,faster delivery,,
+,ORD91905,2,5,Very satisfied,,Yes,occasional
+CUST67408,ORD01968,2,5,VERY dissatisfied,better Food quality,,
+CUST45137,ORD31579,1,,Very satisfied,More payment otpions,Yes,DAILY
+CUST02385,ORD08854,3,4,VERY dissatisfied,Beter packaging,Yes,DAILY
+,ORD04897,3,3,Neutral,More payment otpions,,Monthly
+CUST39683,ORD59984,2,4,Very satisfied,More payment otpions,No,occasional
+,ORD94868,3,,Neutral,More payment otpions,,weekly
+CUST80095,ORD13706,2,3,Neutral,More payment otpions,Yes,occasional
+CUST20671,ORD08924,3,2,Disastisfied,faster delivery,No,Monthly
+CUST42508,ORD95865,2,2,Satisfied,Beter packaging,Yes,weekly
+CUST80100,,4,2,Neutral,faster delivery,No,
+CUST95603,ORD31531,3,5,Satisfied,More payment otpions,Yes,
+CUST05658,,1,5,Satisfied,,No,
+CUST88697,ORD04116,N/A,3,Very satisfied,,,weekly
+CUST99311,ORD14795,1,5,Disastisfied,better Food quality,No,Monthly
+CUST09036,ORD98019,5,3,Satisfied,More payment otpions,Yes,weekly
+CUST51968,ORD07279,4,3,Satisfied,better Food quality,,weekly
+CUST10146,ORD85276,3,3,VERY dissatisfied,better Food quality,,DAILY
+CUST80116,ORD38736,2,1,Neutral,,No,weekly
+CUST84218,ORD21865,4,2,Neutral,More payment otpions,,occasional
+CUST35153,ORD37595,3,4,VERY dissatisfied,better Food quality,No,Monthly
+CUST54625,ORD00868,1,4,Disastisfied,More payment otpions,,weekly
+CUST51066,ORD04970,4,4,Disastisfied,better Food quality,Yes,
+CUST92059,ORD08882,2,3,Very satisfied,,,weekly
+CUST11170,ORD81757,2,1,VERY dissatisfied,More payment otpions,Yes,DAILY
+CUST15039,ORD48631,5,,Disastisfied,More payment otpions,No,Monthly
+CUST06833,ORD82325,1,1,Satisfied,faster delivery,Yes,DAILY
+CUST89494,ORD74191,1,1,VERY dissatisfied,Beter packaging,,DAILY
+,ORD95016,4,,Satisfied,Beter packaging,Yes,occasional
+CUST68741,ORD49701,2,4,Disastisfied,better Food quality,,Monthly
+CUST92282,ORD22533,1,4,VERY dissatisfied,More payment otpions,No,occasional
+CUST56652,,1,5,Very satisfied,faster delivery,,occasional
+customer20713,ORD54127,4,1,Very satisfied,,Yes,DAILY
+customer98786,ORD50123,3,3,Disastisfied,better Food quality,No,occasional
+CUST01007,ORD18892,5,2,Satisfied,,Yes,
+CUST17777,,5,4,Disastisfied,,Yes,
+CUST35721,ORD03123,5,3,Satisfied,More payment otpions,Yes,DAILY
+CUST65591,,2,3,Neutral,,No,
+CUST13867,ORD69526,5,,Disastisfied,faster delivery,No,
+CUST35771,ORD01495,3,4,VERY dissatisfied,More payment otpions,No,occasional
+CUST75765,,4,,VERY dissatisfied,,Yes,
+CUST04944,ORD01570,5,2,Very satisfied,,,occasional
+CUST65820,ORD96233,N/A,2,Satisfied,More payment otpions,No,
+CUST40336,ORD28875,N/A,1,VERY dissatisfied,faster delivery,Yes,weekly
+CUST78924,ORD02211,1,5,Very satisfied,More payment otpions,,weekly
+CUST95229,ORD62511,2,5,Disastisfied,better Food quality,,Monthly
+CUST47043,ORD86606,3,2,Satisfied,faster delivery,,
+CUST47712,ORD05926,5,1,Neutral,More payment otpions,Yes,occasional
+CUST98946,ORD46656,4,1,Satisfied,faster delivery,,
+CUST70364,ORD72840,2,2,Neutral,Beter packaging,Yes,weekly
+CUST12051,ORD54226,1,3,Very satisfied,,Yes,weekly
+CUST07746,,5,4,Disastisfied,better Food quality,No,DAILY
+CUST59730,ORD07078,N/A,3,VERY dissatisfied,,No,Monthly
+CUST72033,ORD04313,3,2,Neutral,,Yes,occasional
+CUST96039,ORD72745,2,4,Disastisfied,faster delivery,Yes,DAILY
+customer49290,ORD66308,4,1,Very satisfied,faster delivery,No,DAILY
+CUST17465,,3,5,Disastisfied,faster delivery,No,occasional
+,,5,5,Disastisfied,Beter packaging,No,occasional
+CUST92158,ORD80491,3,1,Disastisfied,More payment otpions,Yes,weekly
+CUST41693,ORD58102,2,2,Satisfied,Beter packaging,,occasional
+CUST04831,ORD76966,2,4,Neutral,More payment otpions,Yes,occasional
+,ORD40447,2,2,Satisfied,More payment otpions,,weekly
+CUST23400,ORD07278,3,3,Neutral,Beter packaging,,DAILY
+CUST07234,ORD20607,6,5,Very satisfied,better Food quality,Yes,DAILY
+CUST11279,ORD31874,3,,VERY dissatisfied,better Food quality,Yes,Monthly
+CUST05272,ORD19947,3,2,Disastisfied,better Food quality,Yes,occasional
+CUST83434,ORD08766,3,3,Disastisfied,faster delivery,No,
+CUST70906,ORD96911,2,3,Neutral,Beter packaging,,DAILY
+CUST34206,ORD24359,2,4,Neutral,better Food quality,,
+customer82950,ORD52660,4,2,VERY dissatisfied,faster delivery,No,DAILY
+CUST58837,ORD02909,4,4,Neutral,More payment otpions,No,DAILY
+CUST69646,ORD43303,8,4,Satisfied,More payment otpions,Yes,Monthly
+,ORD80512,5,2,VERY dissatisfied,faster delivery,Yes,occasional
+,ORD05418,3,2,Disastisfied,better Food quality,,DAILY
+CUST53260,ORD24842,3,5,Neutral,faster delivery,,
+CUST42048,ORD70771,2,5,VERY dissatisfied,faster delivery,No,
+CUST55083,ORD57739,2,5,Disastisfied,faster delivery,No,Monthly
+CUST90248,,2,4,Very satisfied,Beter packaging,,
+CUST76097,ORD85493,5,,Neutral,better Food quality,,Monthly
+customer55705,ORD77529,5,,Satisfied,better Food quality,Yes,
+CUST74046,ORD95438,2,5,Very satisfied,Beter packaging,,weekly
+CUST97949,ORD09140,5,4,Neutral,better Food quality,,
+CUST28073,ORD37480,3,2,Neutral,,,DAILY
+CUST64300,ORD67212,N/A,10,Neutral,Beter packaging,Yes,weekly
+CUST31468,ORD49323,5,4,Satisfied,faster delivery,,DAILY
+CUST89134,,2,4,Neutral,faster delivery,No,Monthly
+CUST80145,ORD54868,2,4,VERY dissatisfied,,No,
+CUST34837,ORD27104,N/A,3,VERY dissatisfied,,No,weekly
+,ORD56281,4,5,Disastisfied,better Food quality,,DAILY
+CUST88625,ORD40656,3,,Satisfied,better Food quality,Yes,DAILY
+,ORD01299,4,3,VERY dissatisfied,faster delivery,No,
+CUST60874,ORD58412,2,4,Neutral,faster delivery,,weekly
+CUST57817,,3,3,Disastisfied,More payment otpions,,DAILY
+CUST63736,ORD98783,5,4,Disastisfied,,No,weekly
+,ORD49445,5,2,Disastisfied,better Food quality,Yes,Monthly
+CUST05309,ORD64334,1,2,Satisfied,,,occasional
+CUST96522,ORD33737,N/A,5,Satisfied,Beter packaging,,occasional
+customer36873,ORD48971,2,3,Neutral,More payment otpions,Yes,occasional
+,ORD46126,2,4,VERY dissatisfied,More payment otpions,No,DAILY
+CUST76135,ORD00846,1,3,VERY dissatisfied,More payment otpions,Yes,Monthly
+CUST47853,,9,,Disastisfied,better Food quality,No,weekly
+CUST69521,ORD91507,3,1,Disastisfied,better Food quality,Yes,weekly
+CUST98362,ORD45841,1,5,Disastisfied,More payment otpions,No,Monthly
+CUST46969,ORD66577,3,3,Disastisfied,faster delivery,Yes,occasional
+CUST07515,ORD34299,3,3,Very satisfied,More payment otpions,,DAILY
+,ORD04971,3,2,VERY dissatisfied,,No,
+CUST49776,ORD70824,2,5,Satisfied,More payment otpions,,occasional
+customer13457,ORD08126,8,5,Satisfied,better Food quality,,Monthly
+CUST43742,ORD36245,1,1,Satisfied,Beter packaging,No,Monthly
+CUST85978,ORD80129,9,6,Neutral,,,occasional
+CUST56254,ORD35676,2,3,Very satisfied,,Yes,DAILY
+CUST01841,ORD74037,4,4,Satisfied,More payment otpions,No,
+CUST52629,,2,,Neutral,faster delivery,No,DAILY
+CUST23619,ORD29203,5,5,Neutral,better Food quality,,
+CUST75625,ORD36075,3,3,Satisfied,Beter packaging,,
+CUST49686,ORD32004,1,3,Neutral,faster delivery,,
+CUST58438,ORD38902,2,10,Disastisfied,,,occasional
+CUST34816,ORD35804,2,4,Very satisfied,better Food quality,No,
+CUST27552,ORD89918,3,2,Very satisfied,,No,Monthly
+CUST30955,,2,3,VERY dissatisfied,More payment otpions,,
+,ORD97027,4,3,Very satisfied,More payment otpions,Yes,weekly
+CUST39534,ORD03206,4,3,Disastisfied,More payment otpions,Yes,weekly
+CUST60761,ORD29580,2,4,Very satisfied,better Food quality,No,
+CUST55691,ORD68037,2,1,Satisfied,Beter packaging,No,weekly
+CUST07300,ORD35413,2,3,VERY dissatisfied,faster delivery,Yes,occasional
+CUST75510,,3,5,Neutral,faster delivery,,Monthly
+CUST32939,,3,5,Satisfied,Beter packaging,Yes,Monthly
+CUST45976,ORD72717,10,1,Very satisfied,faster delivery,,Monthly
+CUST80560,,2,2,VERY dissatisfied,,Yes,weekly
+CUST25495,ORD61553,2,1,VERY dissatisfied,Beter packaging,Yes,Monthly
+customer12109,ORD03223,2,5,Very satisfied,More payment otpions,Yes,weekly
+CUST22900,ORD16014,4,5,Disastisfied,,No,weekly
+CUST41542,ORD09947,4,4,Satisfied,better Food quality,Yes,Monthly
+CUST93195,ORD36672,1,,Disastisfied,Beter packaging,Yes,weekly
+CUST82089,ORD91353,5,5,VERY dissatisfied,,No,DAILY
+CUST13520,ORD35348,4,4,Neutral,better Food quality,,weekly
+CUST79100,ORD01856,2,2,Disastisfied,,,Monthly
+CUST60556,ORD58607,N/A,1,Very satisfied,,,DAILY
+CUST63588,ORD77100,3,1,Very satisfied,More payment otpions,,occasional
+,ORD37840,3,5,Disastisfied,More payment otpions,No,
+CUST53206,,2,4,VERY dissatisfied,better Food quality,Yes,weekly
+CUST44109,ORD81015,5,2,Satisfied,More payment otpions,,occasional
+,,2,3,Very satisfied,Beter packaging,No,Monthly
+CUST94717,ORD32632,3,4,VERY dissatisfied,More payment otpions,,DAILY
+,ORD23446,2,2,Neutral,faster delivery,No,
+CUST34245,ORD00725,2,3,Satisfied,More payment otpions,,
+CUST03407,ORD28120,3,3,Very satisfied,More payment otpions,Yes,occasional
+CUST12975,ORD28834,3,2,Disastisfied,,,occasional
+CUST47651,ORD07305,5,2,Very satisfied,faster delivery,Yes,
+CUST16465,ORD88027,5,2,Neutral,Beter packaging,,Monthly
+CUST31122,ORD11525,5,2,Very satisfied,better Food quality,Yes,weekly
+CUST84579,ORD39990,1,4,Satisfied,better Food quality,Yes,weekly
+CUST52477,ORD19555,3,4,Satisfied,More payment otpions,Yes,occasional
+CUST02177,ORD89057,4,3,Neutral,better Food quality,Yes,DAILY
+CUST82013,ORD16396,N/A,1,Neutral,,No,
+CUST60836,ORD77992,5,3,Satisfied,More payment otpions,,DAILY
+CUST85794,ORD91946,2,4,Satisfied,Beter packaging,,DAILY
+CUST40535,ORD50540,3,2,VERY dissatisfied,,,
+CUST07903,ORD42986,2,4,Very satisfied,better Food quality,,weekly
+CUST99720,ORD01268,1,5,VERY dissatisfied,,Yes,Monthly
+CUST85325,ORD80859,4,1,Neutral,,No,DAILY
+CUST64324,ORD65386,5,4,Neutral,faster delivery,No,weekly
+CUST57063,ORD16354,4,4,Disastisfied,More payment otpions,No,Monthly
+CUST35164,ORD75253,4,2,Satisfied,better Food quality,No,
+CUST43860,,1,1,VERY dissatisfied,,,Monthly
+CUST64493,ORD01134,4,5,Neutral,More payment otpions,Yes,weekly
+CUST84772,ORD63569,3,1,Satisfied,More payment otpions,,occasional
+CUST89049,ORD48665,5,1,Disastisfied,Beter packaging,Yes,
+CUST86420,ORD20688,2,5,Disastisfied,faster delivery,,occasional
+CUST49774,ORD06152,3,5,Satisfied,,Yes,occasional
+CUST20374,ORD04168,1,2,VERY dissatisfied,better Food quality,Yes,occasional
+CUST04164,ORD34536,2,2,Very satisfied,More payment otpions,,Monthly
+,ORD82485,5,3,Very satisfied,faster delivery,Yes,DAILY
+CUST52701,ORD77195,3,2,Neutral,better Food quality,,
+CUST72115,ORD82977,5,3,Disastisfied,,No,
+CUST19982,ORD43847,4,4,Very satisfied,better Food quality,No,weekly
+CUST56039,ORD07896,1,5,Neutral,,No,weekly
+CUST25603,ORD54890,5,1,Satisfied,Beter packaging,Yes,
+CUST85887,ORD66621,1,3,Disastisfied,More payment otpions,No,
+CUST55897,ORD95542,2,,Very satisfied,More payment otpions,,occasional
+CUST64805,ORD94255,5,1,Disastisfied,,No,occasional
+CUST03882,ORD27620,1,2,Neutral,Beter packaging,No,DAILY
+CUST46219,ORD96532,4,4,Satisfied,faster delivery,No,DAILY
+CUST26653,ORD05084,5,,Neutral,faster delivery,,weekly
+CUST63453,ORD16203,5,1,Disastisfied,faster delivery,Yes,DAILY
+CUST25566,ORD01696,2,4,Satisfied,faster delivery,No,DAILY
+customer72515,ORD86268,3,3,VERY dissatisfied,better Food quality,Yes,occasional
+CUST09868,ORD30150,4,2,Satisfied,,,
+CUST46368,ORD67342,2,,Very satisfied,Beter packaging,No,weekly
+CUST89915,,3,5,Neutral,faster delivery,,
+CUST91630,ORD40874,5,4,Satisfied,faster delivery,No,weekly
+CUST42746,ORD06723,5,1,Disastisfied,More payment otpions,Yes,weekly
+customer49779,ORD45591,1,2,Satisfied,faster delivery,Yes,weekly
+CUST32423,,1,1,Very satisfied,Beter packaging,No,weekly
+CUST08927,ORD50184,4,3,Very satisfied,better Food quality,Yes,DAILY
+CUST43464,ORD74782,1,1,Very satisfied,better Food quality,Yes,Monthly
+CUST09257,ORD62723,4,3,Disastisfied,Beter packaging,No,DAILY
+CUST76196,ORD65762,1,1,Very satisfied,Beter packaging,,DAILY
+CUST30335,ORD14670,3,4,Very satisfied,better Food quality,,Monthly
+CUST55793,ORD89599,4,1,Satisfied,better Food quality,,Monthly
+CUST91404,ORD79394,5,5,Very satisfied,More payment otpions,No,weekly
+CUST66110,,2,4,Disastisfied,better Food quality,No,
+CUST14058,ORD48771,2,3,VERY dissatisfied,Beter packaging,Yes,DAILY
+,ORD69645,4,5,Neutral,More payment otpions,Yes,Monthly
+,ORD67097,4,10,Disastisfied,faster delivery,No,
+CUST86160,ORD03393,1,5,VERY dissatisfied,faster delivery,,
+CUST91691,,2,5,Satisfied,,,Monthly
+CUST20746,ORD36150,2,4,Satisfied,More payment otpions,,DAILY
+CUST12867,ORD48586,2,3,VERY dissatisfied,,No,DAILY
+,ORD88490,3,5,Very satisfied,better Food quality,No,occasional
+CUST53274,ORD05068,4,2,Satisfied,Beter packaging,Yes,occasional
+,ORD03304,1,1,Very satisfied,better Food quality,Yes,weekly
+CUST34514,ORD83641,3,5,VERY dissatisfied,,No,occasional
+CUST57781,ORD35285,N/A,3,Disastisfied,More payment otpions,No,
+CUST95639,ORD60521,3,,Neutral,Beter packaging,Yes,weekly
+CUST93350,ORD40445,1,2,Disastisfied,,No,weekly
+CUST52119,ORD85572,2,4,Satisfied,More payment otpions,Yes,weekly
+CUST19771,ORD91595,5,2,Satisfied,better Food quality,Yes,
+,ORD75590,2,1,Disastisfied,Beter packaging,Yes,
+CUST84194,ORD46126,N/A,1,Very satisfied,,No,Monthly
+CUST35977,ORD37949,4,,Very satisfied,More payment otpions,No,occasional
+,ORD61578,N/A,2,Satisfied,better Food quality,No,Monthly
+CUST80383,ORD78507,1,1,Very satisfied,More payment otpions,Yes,Monthly
+CUST33740,ORD62648,1,4,Neutral,better Food quality,,weekly
+CUST89130,ORD20763,3,1,Very satisfied,better Food quality,Yes,DAILY
+CUST36663,ORD40302,N/A,2,Neutral,,,DAILY
+CUST38306,ORD23991,5,3,VERY dissatisfied,better Food quality,,
+customer4577,ORD30663,2,2,Satisfied,better Food quality,Yes,weekly
+CUST47508,ORD84522,4,3,Neutral,Beter packaging,,occasional
+CUST84384,ORD22886,3,5,VERY dissatisfied,better Food quality,Yes,DAILY
+CUST10318,ORD02651,2,1,Very satisfied,More payment otpions,,
+CUST39356,ORD51268,5,2,Satisfied,Beter packaging,No,weekly
+,ORD88938,4,1,Disastisfied,Beter packaging,Yes,Monthly
+CUST60003,,2,2,VERY dissatisfied,,No,
+CUST40616,,10,8,Disastisfied,faster delivery,Yes,
+CUST46256,ORD01164,3,1,Very satisfied,Beter packaging,No,
+CUST02488,ORD48955,3,2,Satisfied,More payment otpions,No,weekly
+CUST19416,ORD27376,4,,Very satisfied,faster delivery,,DAILY
+CUST17391,ORD26482,3,1,Satisfied,faster delivery,Yes,Monthly
+CUST28650,ORD86547,3,,Disastisfied,,Yes,occasional
+CUST68677,,1,5,Satisfied,More payment otpions,,DAILY
+customer54435,ORD92865,3,6,Neutral,Beter packaging,Yes,Monthly
+CUST62829,ORD88776,1,3,Disastisfied,Beter packaging,,Monthly
+CUST45151,ORD89043,1,3,Disastisfied,Beter packaging,Yes,weekly
+CUST63177,ORD35147,1,2,VERY dissatisfied,More payment otpions,No,weekly
+CUST43155,,N/A,1,Satisfied,More payment otpions,,occasional
+CUST22708,ORD78118,7,5,Very satisfied,More payment otpions,,occasional
+CUST13041,ORD33140,5,4,Disastisfied,better Food quality,No,Monthly
+CUST69428,ORD46283,2,1,Neutral,better Food quality,Yes,occasional
+CUST00081,ORD66141,5,3,Very satisfied,,No,weekly
+CUST15984,,5,2,Very satisfied,More payment otpions,No,occasional
+CUST03836,,3,1,Disastisfied,better Food quality,No,weekly
+CUST60416,ORD19939,4,4,Satisfied,better Food quality,,weekly
+CUST27031,ORD25254,4,5,Neutral,Beter packaging,No,
+,ORD84358,1,4,Very satisfied,faster delivery,No,DAILY
+CUST72761,ORD86565,4,1,Neutral,More payment otpions,Yes,DAILY
+CUST72356,ORD35146,3,5,Satisfied,Beter packaging,No,Monthly
+CUST06788,ORD95996,5,3,Very satisfied,Beter packaging,No,weekly
+CUST39324,ORD72585,3,3,VERY dissatisfied,,,weekly
+CUST07651,ORD11943,3,5,Very satisfied,Beter packaging,,DAILY
+CUST09749,ORD88858,3,2,Very satisfied,More payment otpions,No,DAILY
+CUST58954,ORD10878,4,5,Disastisfied,More payment otpions,Yes,DAILY
+CUST52085,,3,,VERY dissatisfied,faster delivery,No,
+,ORD36649,1,1,Disastisfied,More payment otpions,,weekly
+CUST73907,ORD55057,N/A,,Neutral,better Food quality,Yes,DAILY
+CUST75953,ORD23155,1,1,VERY dissatisfied,better Food quality,,occasional
+CUST51310,ORD81741,3,2,Neutral,Beter packaging,,occasional
+CUST06716,ORD02795,3,1,Neutral,better Food quality,Yes,DAILY
+CUST77557,ORD94140,2,2,Satisfied,Beter packaging,,weekly
+CUST69378,ORD59955,2,2,Very satisfied,,No,weekly
+CUST47319,ORD68076,4,2,Satisfied,More payment otpions,Yes,Monthly
+,ORD48570,3,4,Satisfied,better Food quality,Yes,DAILY
+CUST57151,,2,4,Satisfied,More payment otpions,,occasional
+CUST20917,ORD04305,2,2,Very satisfied,Beter packaging,Yes,DAILY
+CUST07053,ORD93432,5,1,VERY dissatisfied,,,Monthly
+customer70035,ORD54996,1,1,Neutral,better Food quality,Yes,Monthly
+CUST31962,ORD77252,1,5,Disastisfied,faster delivery,,Monthly
+CUST53198,ORD70593,1,5,Satisfied,better Food quality,No,
+CUST10847,ORD85282,2,,Satisfied,better Food quality,Yes,Monthly
+CUST08112,ORD89390,2,3,Satisfied,More payment otpions,Yes,occasional
+CUST54274,ORD04211,4,1,VERY dissatisfied,faster delivery,Yes,weekly
+CUST22225,ORD24915,5,5,Neutral,faster delivery,No,weekly
+CUST60127,ORD18593,4,2,Disastisfied,Beter packaging,Yes,weekly
+CUST42580,ORD06371,4,2,Neutral,faster delivery,,weekly
+CUST23082,ORD66602,1,1,Very satisfied,More payment otpions,,occasional
+,ORD49041,1,,Satisfied,better Food quality,,DAILY
+CUST46720,ORD66245,2,4,Disastisfied,More payment otpions,Yes,Monthly
+CUST44298,ORD69440,3,6,VERY dissatisfied,better Food quality,No,occasional
+CUST17438,,1,2,VERY dissatisfied,Beter packaging,No,
+CUST17351,ORD55916,1,4,Satisfied,More payment otpions,,DAILY
+CUST09454,ORD85516,5,4,VERY dissatisfied,,,
+CUST67069,ORD45216,1,,Very satisfied,,No,DAILY
+,,3,3,Satisfied,,No,occasional
+CUST29804,ORD62848,2,3,VERY dissatisfied,Beter packaging,Yes,
+CUST37953,ORD18147,2,4,Satisfied,faster delivery,,
+CUST77678,ORD02070,4,1,Satisfied,More payment otpions,,weekly
+CUST22619,ORD31744,2,3,VERY dissatisfied,Beter packaging,No,weekly
+CUST97495,ORD02133,8,3,Disastisfied,better Food quality,,Monthly
+CUST54451,ORD38618,1,1,Disastisfied,better Food quality,Yes,occasional
+CUST89695,ORD44041,1,2,Neutral,better Food quality,Yes,Monthly
+CUST24927,,5,2,Neutral,,,weekly
+CUST05302,ORD49717,7,1,VERY dissatisfied,faster delivery,,Monthly
+,ORD91325,3,5,Neutral,Beter packaging,No,Monthly
+CUST06372,ORD31619,3,3,VERY dissatisfied,better Food quality,No,weekly
+CUST72723,,9,4,Disastisfied,Beter packaging,Yes,DAILY
+,ORD77462,1,,Satisfied,better Food quality,,DAILY
+,ORD15871,5,3,Disastisfied,faster delivery,,
+CUST01569,ORD94449,1,3,Neutral,faster delivery,Yes,Monthly
+CUST06964,ORD04871,1,1,Very satisfied,Beter packaging,Yes,Monthly
+CUST61321,ORD01110,5,4,VERY dissatisfied,,,occasional
+CUST66394,,3,1,VERY dissatisfied,More payment otpions,No,DAILY
+CUST28138,ORD44668,1,5,Satisfied,better Food quality,,DAILY
+CUST19714,ORD10899,10,1,Disastisfied,better Food quality,No,Monthly
+CUST70751,ORD73178,3,5,Satisfied,,Yes,occasional
+CUST08915,ORD03546,N/A,1,Neutral,,No,weekly
+CUST59304,ORD69860,5,2,Very satisfied,Beter packaging,Yes,weekly
+CUST75409,ORD15614,1,,Very satisfied,faster delivery,No,Monthly
+CUST13849,ORD93549,1,4,Disastisfied,Beter packaging,Yes,weekly
+CUST08611,ORD14968,4,,Satisfied,,,occasional
+CUST21212,ORD75351,3,5,Very satisfied,,No,Monthly
+CUST81593,ORD13666,5,3,Very satisfied,better Food quality,,weekly
+customer34694,ORD86708,5,3,Neutral,More payment otpions,,occasional
+CUST67757,,3,3,Neutral,better Food quality,No,DAILY
+CUST81196,ORD89192,3,3,Satisfied,Beter packaging,No,Monthly
+CUST98839,ORD43594,1,2,Satisfied,More payment otpions,,occasional
+CUST24914,,5,5,Very satisfied,better Food quality,,occasional
+CUST55455,ORD16942,6,5,VERY dissatisfied,More payment otpions,No,DAILY
+CUST77540,ORD01575,2,5,VERY dissatisfied,,,

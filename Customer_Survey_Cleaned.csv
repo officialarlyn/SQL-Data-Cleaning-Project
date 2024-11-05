@@ -1,0 +1,228 @@
+customer_id,delivery_rating,food_quality_rating,delivery_time_satisfaction,suggestions_for_improvement,would_recommend,order_frequency
+CUST89613,4,3,Satisfied,Beter packaging,No,Monthly
+CUST82243,3,4,Very satisfied,better Food quality,Yes,weekly
+CUST61039,2,3,Satisfied,better Food quality,Yes,Daily
+CUST64490,2,1,Satisfied,better Food quality,Yes,weekly
+CUST79373,2,3,Very satisfied,Beter packaging,No,occasional
+CUST50880,2,4,Satisfied,faster delivery,No,weekly
+CUST69583,3,4,Satisfied,More payment options,No,Monthly
+CUST78478,3,3,Neutral,No suggestions,Yes,weekly
+CUST18613,2,2,Dissatisfied,better Food quality,Yes,Monthly
+CUST60010,3,2,Very satisfied,better Food quality,No,Daily
+CUST97498,3,3,Neutral,Beter packaging,No,Monthly
+CUST83741,2,5,Very dissatisfied,better Food quality,Yes,Daily
+CUST98679,3,4,Satisfied,better Food quality,No,Daily
+CUST89498,2,3,Neutral,better Food quality,No,Monthly
+CUST25776,3,4,Satisfied,faster delivery,No,Monthly
+CUST84036,4,1,Dissatisfied,More payment options,No,Daily
+CUST33786,1,5,Very dissatisfied,better Food quality,No,Monthly
+CUST23732,4,3,Dissatisfied,No suggestions,Yes,Monthly
+CUST08511,2,2,Very dissatisfied,More payment options,No,occasional
+CUST31406,1,4,Satisfied,More payment options,Yes,occasional
+CUST44021,2,2,Very dissatisfied,No suggestions,Yes,Monthly
+CUST42449,5,1,Dissatisfied,No suggestions,No,weekly
+CUST49739,1,2,Satisfied,No suggestions,No,occasional
+CUST05922,1,4,Satisfied,More payment options,Yes,Monthly
+CUST23047,4,3,Dissatisfied,No suggestions,Yes,weekly
+CUST65893,4,3,Dissatisfied,better Food quality,No,Daily
+CUST66073,5,3,Satisfied,better Food quality,Yes,weekly
+CUST60531,3,4,Very dissatisfied,Beter packaging,No,Daily
+CUST49939,2,3,Satisfied,Beter packaging,Yes,occasional
+CUST36078,2,2,Very dissatisfied,More payment options,No,Daily
+CUST90556,4,3,Very satisfied,Beter packaging,Yes,Daily
+CUST27762,1,2,Neutral,Beter packaging,No,occasional
+CUST48350,3,4,Very dissatisfied,faster delivery,Yes,Daily
+CUST42779,3,1,Satisfied,More payment options,Yes,occasional
+CUST99828,1,1,Very dissatisfied,better Food quality,No,Daily
+CUST09200,5,9,Very satisfied,No suggestions,Yes,Monthly
+CUST49167,5,2,Very dissatisfied,No suggestions,No,weekly
+CUST79655,5,3,Very satisfied,faster delivery,No,Monthly
+CUST66279,3,2,Very satisfied,faster delivery,No,occasional
+CUST21922,2,2,Satisfied,better Food quality,Yes,Monthly
+CUST06555,4,5,Satisfied,More payment options,Yes,Daily
+CUST21917,4,1,Satisfied,No suggestions,Yes,Monthly
+CUST71834,1,1,Very dissatisfied,More payment options,No,Daily
+CUST93517,2,4,Neutral,Beter packaging,Yes,occasional
+CUST40614,5,1,Dissatisfied,More payment options,No,Daily
+CUST12913,4,1,Very dissatisfied,better Food quality,Yes,Daily
+CUST78252,3,5,Very dissatisfied,better Food quality,Yes,Daily
+CUST02869,2,3,Very satisfied,More payment options,Yes,Monthly
+CUST95579,2,3,Satisfied,More payment options,Yes,Monthly
+CUST72184,4,3,Dissatisfied,faster delivery,No,weekly
+CUST69632,4,4,Very dissatisfied,More payment options,Yes,weekly
+CUST16233,1,3,Very satisfied,Beter packaging,No,weekly
+CUST18269,5,5,Dissatisfied,better Food quality,Yes,occasional
+CUST72484,2,4,Very dissatisfied,better Food quality,No,Daily
+CUST64650,5,2,Satisfied,More payment options,No,occasional
+CUST10879,3,1,Very satisfied,Beter packaging,No,Daily
+CUST65439,2,5,Very satisfied,faster delivery,No,occasional
+CUST20049,2,1,Neutral,No suggestions,Yes,weekly
+CUST76929,5,4,Satisfied,More payment options,Yes,Monthly
+CUST67450,3,3,Neutral,More payment options,No,Monthly
+CUST49788,3,2,Very satisfied,Beter packaging,No,occasional
+CUST50019,3,3,Neutral,faster delivery,Yes,Monthly
+CUST08592,4,2,Dissatisfied,Beter packaging,Yes,Monthly
+CUST23870,4,1,Neutral,More payment options,No,occasional
+CUST08930,2,4,Neutral,No suggestions,No,Monthly
+CUST43191,1,4,Satisfied,better Food quality,No,Daily
+CUST43063,4,4,Neutral,better Food quality,No,weekly
+CUST42078,3,2,Dissatisfied,better Food quality,Yes,weekly
+CUST40305,1,5,Very dissatisfied,More payment options,No,weekly
+CUST74181,10,4,Very satisfied,faster delivery,Yes,Monthly
+CUST66685,5,4,Satisfied,More payment options,No,Daily
+CUST70864,1,4,Neutral,No suggestions,No,Monthly
+CUST98439,4,4,Dissatisfied,Beter packaging,No,weekly
+CUST78280,5,5,Very dissatisfied,More payment options,Yes,weekly
+CUST70364,1,2,Neutral,faster delivery,Yes,Monthly
+CUST82994,4,1,Very satisfied,faster delivery,Yes,weekly
+CUST46788,3,5,Very dissatisfied,No suggestions,Yes,Daily
+CUST67966,2,1,Very satisfied,Beter packaging,Yes,occasional
+CUST76302,3,5,Very dissatisfied,No suggestions,No,Monthly
+CUST04652,3,2,Satisfied,faster delivery,No,Daily
+CUST91609,2,2,Very dissatisfied,Beter packaging,No,Daily
+CUST04156,1,2,Dissatisfied,Beter packaging,No,Daily
+CUST67689,1,4,Very dissatisfied,No suggestions,No,weekly
+CUST76022,2,2,Dissatisfied,More payment options,Yes,weekly
+CUST50230,2,8,Dissatisfied,More payment options,No,Monthly
+CUST21233,2,3,Very satisfied,No suggestions,No,Monthly
+CUST85261,2,4,Neutral,faster delivery,Yes,weekly
+CUST29525,4,1,Satisfied,better Food quality,Yes,occasional
+CUST98387,4,4,Very dissatisfied,More payment options,Yes,weekly
+CUST21787,4,5,Neutral,faster delivery,Yes,Monthly
+CUST55118,2,4,Neutral,faster delivery,Yes,occasional
+CUST37560,4,4,Neutral,More payment options,No,Monthly
+CUST60733,5,3,Neutral,More payment options,Yes,occasional
+CUST97969,2,2,Very satisfied,better Food quality,No,occasional
+CUST74673,5,4,Dissatisfied,More payment options,No,occasional
+CUST52400,9,2,Very dissatisfied,better Food quality,No,weekly
+CUST49788,3,5,Very dissatisfied,better Food quality,No,Monthly
+CUST08231,3,3,Satisfied,No suggestions,Yes,Daily
+CUST75791,5,2,Satisfied,better Food quality,No,occasional
+CUST64552,4,1,Neutral,better Food quality,No,occasional
+CUST48016,5,3,Very dissatisfied,No suggestions,No,weekly
+CUST16510,5,2,Neutral,better Food quality,No,Monthly
+CUST03571,6,1,Neutral,faster delivery,No,Daily
+CUST36243,3,3,Very satisfied,More payment options,No,Monthly
+CUST77668,1,1,Neutral,No suggestions,No,Monthly
+CUST97503,1,2,Dissatisfied,More payment options,No,Monthly
+CUST66064,2,5,Very satisfied,Beter packaging,No,weekly
+CUST61209,5,7,Very satisfied,better Food quality,No,occasional
+CUST00540,3,5,Dissatisfied,No suggestions,No,Daily
+CUST43479,2,1,Satisfied,faster delivery,Yes,Monthly
+CUST74109,4,3,Very satisfied,better Food quality,No,occasional
+CUST05890,5,1,Very satisfied,No suggestions,No,Monthly
+CUST18209,2,1,Very satisfied,faster delivery,No,weekly
+CUST70553,4,4,Satisfied,better Food quality,No,Monthly
+CUST29465,4,2,Very satisfied,No suggestions,No,occasional
+CUST43334,4,4,Very satisfied,No suggestions,No,occasional
+CUST09987,5,1,Very dissatisfied,better Food quality,No,occasional
+CUST71056,3,2,Neutral,faster delivery,No,occasional
+CUST58860,3,3,Satisfied,faster delivery,No,Monthly
+CUST09542,5,3,Dissatisfied,better Food quality,No,Daily
+CUST42431,2,5,Very dissatisfied,better Food quality,No,Monthly
+CUST61107,5,1,Dissatisfied,More payment options,No,occasional
+CUST40622,4,4,Satisfied,faster delivery,No,occasional
+CUST85675,3,1,Neutral,Beter packaging,No,Daily
+CUST20583,5,1,Satisfied,More payment options,No,Daily
+CUST31985,1,3,Satisfied,faster delivery,No,occasional
+CUST68483,3,4,Neutral,No suggestions,No,weekly
+CUST53301,6,4,Satisfied,More payment options,Yes,occasional
+CUST18320,3,5,Dissatisfied,More payment options,No,Daily
+CUST77971,3,1,Neutral,better Food quality,No,Monthly
+CUST83442,1,1,Very satisfied,More payment options,No,weekly
+CUST69613,4,3,Dissatisfied,More payment options,No,weekly
+CUST30477,4,4,Very satisfied,Beter packaging,Yes,Monthly
+CUST19031,5,6,Very dissatisfied,More payment options,No,weekly
+CUST83375,2,5,Satisfied,better Food quality,Yes,Daily
+CUST22625,3,1,Very dissatisfied,No suggestions,Yes,weekly
+CUST62221,1,1,Neutral,More payment options,No,weekly
+CUST66876,1,10,Dissatisfied,Beter packaging,No,occasional
+CUST61931,3,2,Dissatisfied,No suggestions,Yes,weekly
+CUST45767,2,4,Very satisfied,No suggestions,No,Daily
+CUST85611,1,3,Satisfied,faster delivery,No,occasional
+CUST27822,1,4,Neutral,Beter packaging,Yes,weekly
+CUST60659,3,1,Very dissatisfied,better Food quality,Yes,occasional
+CUST90654,1,3,Satisfied,Beter packaging,Yes,Monthly
+CUST23278,3,2,Very satisfied,More payment options,Yes,weekly
+CUST34499,4,4,Dissatisfied,No suggestions,Yes,Daily
+CUST34376,3,1,Very dissatisfied,More payment options,No,weekly
+CUST84158,5,1,Very dissatisfied,No suggestions,Yes,occasional
+CUST45596,3,5,Dissatisfied,No suggestions,Yes,Monthly
+CUST80539,10,3,Very satisfied,More payment options,Yes,occasional
+CUST45842,5,1,Very dissatisfied,More payment options,Yes,occasional
+CUST61481,3,4,Neutral,No suggestions,Yes,weekly
+CUST33932,4,4,Dissatisfied,faster delivery,Yes,Daily
+CUST28904,2,2,Neutral,better Food quality,Yes,Monthly
+CUST41854,2,3,Neutral,More payment options,No,Daily
+CUST86864,5,4,Very dissatisfied,More payment options,No,Daily
+CUST16766,3,3,Very satisfied,More payment options,Yes,occasional
+CUST33434,2,3,Very satisfied,More payment options,No,Monthly
+CUST19402,5,3,Satisfied,Beter packaging,No,Daily
+CUST73794,1,4,Neutral,More payment options,Yes,Monthly
+CUST97421,2,4,Very satisfied,Beter packaging,No,weekly
+CUST42778,1,2,Dissatisfied,No suggestions,No,Monthly
+CUST36204,4,2,Dissatisfied,More payment options,No,Monthly
+CUST76468,4,2,Neutral,More payment options,No,Monthly
+CUST66767,3,5,Neutral,better Food quality,No,Daily
+CUST35561,1,3,Very dissatisfied,No suggestions,No,Monthly
+CUST48167,5,10,Neutral,better Food quality,No,Monthly
+CUST20148,4,5,Very satisfied,faster delivery,Yes,Monthly
+CUST58434,1,4,Dissatisfied,No suggestions,No,Monthly
+CUST64048,3,3,Very dissatisfied,No suggestions,Yes,Monthly
+CUST17245,4,5,Very dissatisfied,More payment options,Yes,occasional
+CUST87697,3,1,Very dissatisfied,better Food quality,No,Daily
+CUST69460,1,2,Very dissatisfied,faster delivery,Yes,Daily
+CUST87938,3,2,Neutral,faster delivery,No,Daily
+CUST00810,1,2,Satisfied,better Food quality,No,Monthly
+CUST13593,5,1,Dissatisfied,More payment options,No,Daily
+CUST93079,5,2,Satisfied,Beter packaging,Yes,occasional
+CUST99163,4,5,Dissatisfied,Beter packaging,Yes,weekly
+CUST16919,5,4,Neutral,faster delivery,No,weekly
+CUST42082,1,2,Dissatisfied,better Food quality,Yes,weekly
+CUST78696,1,5,Very satisfied,faster delivery,No,occasional
+CUST23079,5,1,Very satisfied,Beter packaging,No,weekly
+CUST24016,5,5,Dissatisfied,Beter packaging,No,Monthly
+CUST15883,5,2,Neutral,Beter packaging,Yes,Daily
+CUST90053,5,5,Very satisfied,better Food quality,No,Monthly
+CUST89685,5,2,Very satisfied,No suggestions,No,weekly
+CUST71961,5,1,Neutral,No suggestions,No,Monthly
+CUST43612,5,2,Neutral,faster delivery,No,weekly
+CUST94855,4,3,Very dissatisfied,Beter packaging,Yes,Monthly
+CUST11284,1,4,Satisfied,No suggestions,Yes,Daily
+CUST84816,2,4,Very dissatisfied,No suggestions,No,Monthly
+CUST49728,5,5,Neutral,better Food quality,No,occasional
+CUST60002,2,1,Satisfied,better Food quality,No,occasional
+CUST68738,2,4,Very dissatisfied,No suggestions,No,Daily
+CUST09078,2,4,Dissatisfied,No suggestions,Yes,Daily
+CUST85918,4,2,Very dissatisfied,Beter packaging,No,occasional
+CUST28035,1,4,Dissatisfied,faster delivery,Yes,weekly
+CUST77186,5,4,Very satisfied,No suggestions,No,weekly
+CUST69927,3,3,Very satisfied,faster delivery,Yes,Daily
+CUST82111,4,2,Very dissatisfied,Beter packaging,Yes,Monthly
+CUST74197,2,5,Neutral,faster delivery,Yes,Monthly
+CUST54624,4,8,Neutral,faster delivery,No,occasional
+CUST38755,5,1,Neutral,No suggestions,No,Daily
+CUST10880,2,5,Satisfied,better Food quality,Yes,Daily
+CUST72891,5,3,Dissatisfied,faster delivery,Yes,occasional
+CUST15623,2,1,Very dissatisfied,faster delivery,No,weekly
+CUST88632,1,2,Dissatisfied,faster delivery,No,Monthly
+CUST82666,1,10,Very dissatisfied,better Food quality,No,occasional
+CUST08276,1,4,Satisfied,More payment options,Yes,occasional
+CUST28994,2,3,Very dissatisfied,More payment options,No,occasional
+CUST38052,2,1,Very dissatisfied,better Food quality,No,Monthly
+CUST19456,2,4,Neutral,faster delivery,Yes,weekly
+CUST64772,3,2,Very dissatisfied,No suggestions,Yes,Monthly
+CUST82303,4,4,Very satisfied,No suggestions,No,occasional
+CUST65953,1,1,Very dissatisfied,faster delivery,No,weekly
+CUST41674,5,3,Neutral,More payment options,No,occasional
+CUST81849,5,3,Very dissatisfied,faster delivery,No,Monthly
+CUST24034,1,5,Satisfied,Beter packaging,Yes,weekly
+CUST63441,4,1,Dissatisfied,No suggestions,No,occasional
+CUST82882,6,3,Very satisfied,better Food quality,No,Monthly
+CUST63152,1,5,Satisfied,No suggestions,Yes,weekly
+CUST55061,3,4,Satisfied,No suggestions,No,Monthly
+CUST91280,4,5,Dissatisfied,better Food quality,No,Daily
+CUST21306,5,2,Very satisfied,better Food quality,Yes,weekly
+CUST83254,4,5,Dissatisfied,faster delivery,No,Monthly
+CUST33376,4,3,Dissatisfied,faster delivery,No,Daily
+CUST99801,5,5,Dissatisfied,More payment options,Yes,Daily
